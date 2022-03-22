@@ -2,6 +2,6 @@
 
 ## Notebook 1 sobre Empréstimos
 
-[notebook] (notebook/empretismo01.ipynb)
+[notebook] (https://github.com/GuilhermeBuzzetti-235883/MC322/blob/main/lab01/notebook/emprestimo01.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
